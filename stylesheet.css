@@ -163,3 +163,9 @@ button:hover {
         left: 3%;
     }
 }
+
+@media (max-width: 1440px) {
+    button {
+        font-size: 22px;
+    }
+}
